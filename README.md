@@ -1,12 +1,13 @@
-# Mini-Voting-System-Using-C-Language
+Mini Voting System Using C Language
+This mini voting system is designed to set up a flexible and trustworthy voting system, suitable for large and small groups, such as a batch or a class. The system keeps a record of every voting process to ensure transparency and reliability.
 
-    -> Allows us to set up a flexible and trustworthy voting system
-    -> Applicable for large as well as small group of people e.g. a batch, a class.
-    -> Keeps a record of  every voting process.
+Features
+Flexible Voting System: Easily adaptable to different voting scenarios.
+Applicability: Suitable for small groups like classes or large groups such as batches.
+Record Keeping: Maintains a record of each voting process for accountability.
+Getting Started
+Follow these instructions to set up and use the mini voting system.
 
-# How to use?
-### You can fork or download the repo, Once you have both the files "MAIN.C" and "ELECTION.H", You just need to compile and run MAIN.C
-#### ( It's too easy, isn't it? ☺)
-##### For Admin Panel Use Username: "Admin" Password: "admiN"
-
-#### #mini project #voting system #c project
+Prerequisites
+A C compiler (e.g., GCC)
+Basic knowledge of C programming
